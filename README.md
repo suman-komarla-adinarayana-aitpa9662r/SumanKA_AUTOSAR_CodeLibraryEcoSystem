@@ -19,8 +19,16 @@ Open Source Software - Automotive Embedded IT
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Open Source Tools - Automotive Embedded IT
-[https://github.com/openAUTOSAR/classic-platform/tree/master - Source Code attached]
+[
 
+Classic AUTOSAR
+https://github.com/openAUTOSAR/classic-platform/tree/master - Source Code attached
+
+
+Adaptive AUTOSAR
+https://github.com/langroodi/Adaptive-AUTOSAR
+
+]
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Autosar Embedded Programming Library
@@ -42,5 +50,7 @@ https://github.com/topics/autosar
 https://www.artop.org/
 
 https://www.autosar.org/
+
+https://github.com/langroodi/Adaptive-AUTOSAR
 
 /**************************************************************************************************/
