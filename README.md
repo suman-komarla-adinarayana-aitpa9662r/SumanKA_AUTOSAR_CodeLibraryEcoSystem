@@ -3,6 +3,7 @@ Complete AUTOSAR CODE Libaray ECOSYSTEM
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ AUTOSAR SOURCE CODE ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 1) SKA_AUTOSARClassicArcticCore_v3-1_mercurial                -> https://github.com/openAUTOSAR/classic-platform -> Mirror Code of Arctic Core Autosar 3.1 Mercurial Repository: http://my.arccore.com/hg/arc/
+   
 2) SKA_AUTOSARClassicReleaseR23-11_StandardsDocumentationInfo -> Mirror of AUTOSAR R23-11 Release from https://www.autosar.org/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ AUTOSAR SOURCE CODE ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
